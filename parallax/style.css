@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-family: 'Lato';
+  font-size: 27px;
+  font-weight: 200;
+}
+
+.pimg1, .pimg2, .pimg3 {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+}
+
+.pimg1 {
+  background-image: url('pexels-johannes-plenio-3417015.jpg');
+  min-height: 100vh;
+}
+
+.pimg2 {
+  background-image: url('pexels-rok-romih-3489072.jpg');
+  min-height: 100vh;
+}
+
+.pimg3 {
+  background-image: url('pexels-roberto-nickson-2885320.jpg');
+  min-height: 100vh;
+}
+
+.itext {
+  position: absolute;
+  top: 50vh;
+  width: 100vw;
+  color: #ffffff;
+  text-align: center;
+  font-size: 47px;
+  font-family: "Luna";
+  object-position: center;
+}
+
+.border {
+  object-position: center;
+}
+
+.pstyle {
+  padding: 50px 80px;
+  text-align: center;
+  opacity: 1.0;
+}
+
+.p1 {
+  background-color: #23343f;
+  color: #d8e0e5;
+}
+
+.p3 {
+  background-color: #151e3d;
+  color: #d8e0e5;
+}
