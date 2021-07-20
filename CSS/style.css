@@ -24,17 +24,17 @@ body {
 }
 
 .pimg1 {
-  background-image: url('./parallax/pexels-johannes-plenio-3417015.JPG');
+  background-image: url('./parallax/pexels-johannes-plenio-3417015.jpg');
   min-height: 100vh;
 }
 
 .pimg2 {
-  background-image: url('./parallax/pexels-rok-romih-3489072.JPG');
+  background-image: url('./parallax/pexels-rok-romih-3489072.jpg');
   min-height: 100vh;
 }
 
 .pimg3 {
-  background-image: url('./parallax/pexels-roberto-nickson-2885320.JPG');
+  background-image: url('./parallax/pexels-roberto-nickson-2885320.jpg');
   min-height: 100vh;
 }
 
